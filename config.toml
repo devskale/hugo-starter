@@ -23,7 +23,7 @@ weight = 5
 address = "A-7100 Neusiedl"
 author = "Hans"
 copyright = "(c) skale.io 2021"
-description = "This is a forestry hugo site"
+description = "a forestry hugo site"
 email = "hi@skale.io"
 google_analitycs_id = ""
 home = "Home"
@@ -48,7 +48,7 @@ URL = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [[params.social]]
 URL = "https://www.linkedin.com/in/johannwaldherr/"
