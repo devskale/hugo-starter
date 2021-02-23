@@ -12,12 +12,12 @@ about:
     URL: about
 skill:
   enable: true
-  title: Skills
+  title: Funding Rate
   item:
-  - title: Web Design
+  - title: Austrian Funds
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
+  - title: Venture Development
     progress: 60%
     color: "#9473e6"
   - title: After Effects
@@ -31,11 +31,11 @@ experience:
   title: Experience
   item:
   - logo: images/experience/icon-1.png
-    title: Junior UX Designer
+    title: Computer Science
     company: WEBEX
     duration: Jan 2007 - Feb 2009
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
+    title: Business Development
     company: AUGMEDIX
     duration: Mar 2009 - Aug 2014
   - logo: images/experience/icon-1.png
@@ -43,7 +43,7 @@ experience:
     company: THEMEFISHER
     duration: Sep 2014 - Present
 education:
-  enable: true
+  enable: false
   title: Education
   item:
   - title: Marters in UX Design
