@@ -27,7 +27,7 @@ description = "This is a forestry hugo site"
 email = "hi@skale.io"
 google_analitycs_id = ""
 home = "Home"
-logo = "images/logo.png"
+logo = "images/skaleio_green2_mir5tc.png"
 phone = "+43 660 7383285"
 theme_color = "#41228e"
 [params.contact]
