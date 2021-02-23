@@ -1,5 +1,5 @@
 ---
-title: Amazon increase income 1.5 Million
+title: Black Hole
 date: 2019-05-12T12:14:34.000+06:00
 image: "/v1614088990/stars_loop3_qrcnoc.gif"
 description: This is meta description.
