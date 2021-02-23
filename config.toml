@@ -54,8 +54,5 @@ preloader = ""
 URL = "https://www.linkedin.com/in/johannwaldherr/"
 icon = "ti-linkedin"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
 URL = "https://twitter.com/woodmastr"
 icon = "ti-twitter-alt"
