@@ -36,7 +36,7 @@ sections:
   path: config.toml
   label: Configuration
 upload_dir: http://res.cloudinary.com/dqsaldmi5/image/upload
-public_path: http://res.cloudinary.com/dqsaldmi5/image
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
