@@ -3,8 +3,9 @@ banner:
   title: Hi! skale.io <br>helps founders <br>raising funds
 about:
   enable: true
-  content: skale.io is based in Austria and has a track record of financing over 30
-    tech ventures with a variety of early stage funding tools.
+  content: skale.io operates from Austria and has a track record of financing over
+    30 tech ventures with a variety of early stage funding tools throughout the last
+    years.
   button:
     enable: true
     label: know more
